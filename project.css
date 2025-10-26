@@ -1,0 +1,260 @@
+*{
+    margin:0;
+    padding:0;
+}
+#navitem1{
+    font-family:roboto;
+    color: #323f4b;
+
+}
+#navitem2{
+    font-family:roboto;
+    color: #323f4b;
+
+}
+#navitem3{
+    font-family:roboto;
+    color: #323f4b;
+
+}
+#navitem4{
+    font-family:roboto;
+    color: #323f4b;
+
+}
+.navbar-nav{
+    display:inline-block;
+    justify-content: flex-end;
+
+}
+a{
+    margin-right:50px;
+
+}
+.food-munch-img{
+    height:70px;
+    width:80px;
+}
+.background-image{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size:cover;
+    height:100vh;
+}
+.on-display-bg-container{
+    color:white;
+    text-align:center
+}
+.heading{
+    color:white;
+    font-family:roboto;
+}
+.paragraph{
+    font-family: roboto;
+    font-size:30px;
+}
+.view-menu-button{
+    height:40px;
+    width:140px;
+     background-color:#E5CB0A;
+    border-radius :6px;
+    color:white;
+    border-width:0px;
+}
+.order-know-button{
+    height:40px;
+    width:140px;
+    border-radius:6px;
+    background-color: transparent;
+    color:white;
+    border-color: #E5CB0A;
+}
+.first-container{
+    background-color: #f9fbfe ;
+}
+.main-heading{
+    color:#183b56;
+    font-family:"roboto";
+    font-size:28px;
+    font-weight:700;
+
+}
+.main-paragraph{
+    color:#5a7184;
+    font-family:"roboto";
+    font-size:20px;
+}
+.above-card-section{
+    text-align: center;
+    border-radius:9px;
+    border-style:solid;
+    background-color: white;
+    margin:10px;
+    border-width:1px;
+}
+.card-paragraph{
+    color:#5a7184;
+}
+.card-heading{
+    font-size:35px;
+    font-family:roboto;
+}
+.offers{
+    color:black;
+    font-weight:bold;
+}.explore-menu-section{
+    background-color:white;
+}
+
+.menu-section-heading{
+    font-weight: bold;
+    color:#183b56;
+    font-size:30px;
+    padding:10px;
+
+}
+.menu-item-card{
+    border-radius:16px;
+    
+}
+.image-section{
+    border-radius:16px;
+}
+.menu-card-title{
+    color:#323f4b;
+    font-family:roboto;
+    margin-top:20px;
+    font-weight:bold;
+    font-size:20px;
+}
+.menu-item-link{
+    color:goldenrod;
+    font-size:14px;
+}
+
+.section-title{
+    color: #183b56;
+    font-family:roboto;
+    font-size:25px;
+    font-weight: bold;
+}
+.section-discription{
+    font-size:15px;
+    font-weight:400
+}
+.custom-button{
+    color:white;
+    background-color:#d0b200;
+    width:130px;
+    height:45px;
+    border-radius:8px;
+    border:none;
+
+
+
+}
+.deliver-and-payment{
+    background-color:white;
+}
+
+
+.delivery-image-section{
+    width:270px;
+}
+
+.delivery-and-payment-section-title{
+    color: #183b56;
+    font-family:roboto;
+    font-size:25px;
+    font-weight: bold;
+}
+.delivery-and-payment-section-discription{
+    font-size:15px;
+    font-weight:400
+}
+.custom-button{
+    color:white;
+    background-color:#d0b200;
+    width:130px;
+    height:45px;
+    border-radius:8px;
+    border:none;
+}
+.payment-card{
+    width:50px;
+    height:50px;
+    margin-right:28px;
+}
+.payment-process-card{
+    padding:20px;
+}
+.thanking-customer-section{
+    background-color: #d0b2001a;
+}
+
+.gift-title{
+    color: #183b56;
+    font-family:roboto;
+    font-size:25px;
+    font-weight: bold;
+}
+.gift-discription{
+    font-size:15px;
+    font-weight:400
+}
+.customer-image-button{
+    width:270px;
+    margin-bottom:20px;
+}
+.redeem-button{
+    color:white;
+    background-color:#d0b200;
+    width:130px;
+    height:45px;
+    border-radius:8px;
+    border:none;
+}
+.follow-us-section{
+    background-color:white;
+}
+.main-title{
+    color: #183b56;
+    text-align: center;
+    padding:50px;
+    font-family:roboto;
+
+}
+.follow-us-icon-section{
+    background-color: azure;
+    font-size: 40px;
+    height:80px;
+    width:80px;
+    border-radius:40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 20px;
+    padding-right: 16px;
+    padding-left:22px;
+    
+
+}
+.icon{
+   color:#d0b200 ;
+   font-size:35px;
+}
+.footer-section{
+    background-color: #183b56;
+    padding:50px;
+
+}
+.footer-section-mail-id{
+    color:aliceblue;
+    font-size:25px;
+    padding:10px;
+
+}
+.footer-section-address{
+    color:aliceblue;
+    font-size:15px;
+
+}
+
